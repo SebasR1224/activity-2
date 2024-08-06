@@ -39,3 +39,6 @@ git clone https://github.com/SebasR1224/activity-2.git
 ```
 
 ## Link Page
+```
+https://sebasr1224.github.io/activity-2/
+```
